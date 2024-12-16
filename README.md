@@ -1,8 +1,15 @@
 # Patient_Interaction_Detection
 A repository to detect whether medical staff in the OR is interacting with the patient
 
+Install:
+```batch
+python -m venv env
+call env/scripts/activate
+pip install -r requirements.txt
+```
+
 Modules:
-- interaction: calculate personnel-patient interaction
+- src/interaction: calculate personnel-patient interaction
   - positioning.py: analyze personnel positioning relative to the patient
   - movement.py: analyze personnel movement
   - interaction.py: analyze personnel-patient interaction

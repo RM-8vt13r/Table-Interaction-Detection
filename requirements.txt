@@ -7,7 +7,7 @@ matplotlib
 opencv-python
 ffmpeg-python
 wcmatch
-git+https://gitlab.tudelft.nl/medical-process-engineering/det2d-read.git
-git+https://gitlab.tudelft.nl/medical-process-engineering/coordinates.git
+git+https://github.com/RM-8vt13r/det2d.git
+git+https://github.com/RM-8vt13r/coordinates.git
 pytest
 tqdm

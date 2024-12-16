@@ -1,0 +1,13 @@
+numpy
+scipy
+scipy
+munkres
+shapely
+matplotlib
+opencv-python
+ffmpeg-python
+wcmatch
+git+https://gitlab.tudelft.nl/medical-process-engineering/det2d-read.git
+git+https://gitlab.tudelft.nl/medical-process-engineering/coordinates.git
+pytest
+tqdm

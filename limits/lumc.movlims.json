@@ -1,0 +1,19 @@
+{
+    "n_limits_required": 1,
+    "limits": [
+        {
+            "keypoint_classes": [5,6],
+            "n_keypoints_required": 1,
+            "confidence_threshold": 0.3,
+            "maximum_velocity_magnitude": 17.5,
+            "frame_step": 5
+        },
+        {
+            "keypoint_classes": [0,1,2,3,4],
+            "n_keypoints_required": 1,
+            "confidence_threshold": 0.3,
+            "maximum_velocity_magnitude": 17.5,
+            "frame_step": 5
+        }
+    ]
+}

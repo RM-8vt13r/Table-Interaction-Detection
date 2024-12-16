@@ -1,0 +1,23 @@
+{
+    "n_limits_required": 2,
+    "limits": [
+        {
+            "keypoint_classes": [0,1],
+            "n_keypoints_required": 1,
+            "confidence_threshold": 0.3,
+            "vertices": "0,0;0,10;10,10;10,0"
+        },
+        {
+            "keypoint_classes": [1,2],
+            "n_keypoints_required": 1,
+            "confidence_threshold": 0.2,
+            "vertices": "5,0;15,0;15,10;5,10"
+        },
+        {
+            "keypoint_classes": [0,2],
+            "n_keypoints_required": 2,
+            "confidence_threshold": 0.1,
+            "vertices": "2.5,5;12.5,5;12.5,15;2.5,15"
+        }
+    ]
+}
